@@ -1,0 +1,2 @@
+FROM demo:hello
+COPY entrypoint.sh /entrypoint.sh

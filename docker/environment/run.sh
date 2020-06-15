@@ -1,0 +1,1 @@
+docker run -e TEST=testing demo:environment
